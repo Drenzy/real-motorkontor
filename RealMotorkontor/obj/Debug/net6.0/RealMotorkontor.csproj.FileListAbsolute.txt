@@ -1,0 +1,8 @@
+C:\Users\dhart\source\repos\RealMotorkontor\RealMotorkontor\obj\Debug\net6.0\RealMotorkontor.csproj.AssemblyReference.cache
+C:\Users\dhart\source\repos\RealMotorkontor\RealMotorkontor\obj\Debug\net6.0\RealMotorkontor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhart\source\repos\RealMotorkontor\RealMotorkontor\obj\Debug\net6.0\RealMotorkontor.AssemblyInfoInputs.cache
+C:\Users\dhart\source\repos\RealMotorkontor\RealMotorkontor\obj\Debug\net6.0\RealMotorkontor.AssemblyInfo.cs
+C:\Users\dhart\source\repos\RealMotorkontor\RealMotorkontor\obj\Debug\net6.0\RealMotorkontor.csproj.CoreCompileInputs.cache
+C:\Users\dhart\source\repos\RealMotorkontor\RealMotorkontor\obj\Debug\net6.0\RealMotorkontor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dhart\source\repos\RealMotorkontor\RealMotorkontor\obj\Debug\net6.0\RealMotorkontor.RazorAssemblyInfo.cache
+C:\Users\dhart\source\repos\RealMotorkontor\RealMotorkontor\obj\Debug\net6.0\RealMotorkontor.RazorAssemblyInfo.cs
